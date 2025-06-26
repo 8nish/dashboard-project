@@ -69,4 +69,4 @@ This project is for learning and experimenting with React and some common librar
 
 ---
 
-Special thanks to edrog for his tutorials and inspiration.
+Special thanks to edrog for his tutorials, inspiration, and mock data.
